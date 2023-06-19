@@ -1,0 +1,2 @@
+# Point_of_Sales_Php
+# POINT OF SALE PROJECT PHP AND MYSQL
